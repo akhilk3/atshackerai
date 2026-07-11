@@ -1,5 +1,1 @@
-Ini, TOML
-[[redirects]]
-  from = "/*"
-  status = 200
-  to = "/index.html"
+[[plugins]]  package = "@netlify/plugin-nextjs"
